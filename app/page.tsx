@@ -155,7 +155,7 @@ export default function Home() {
               <span className="text-gray-400 mr-2">📱</span>
               <input
                 name="phone"
-                placeholder="(19) 99162-4362"
+                placeholder="(19) 99162-3462"
                 required
                 onInput={(e) => {
                   let value = e.currentTarget.value.replace(/\D/g, "");
@@ -200,10 +200,10 @@ export default function Home() {
         <p className="text-center text-gray-400 mt-8">
           WhatsApp:{" "}
           <a
-            href="https://wa.me/5519991624362"
+            href="https://wa.me/5519991623462"
             className="text-brandRed font-semibold"
           >
-            (19) 99162-4362
+            (19) 99162-3462
           </a>
         </p>
       </section>
