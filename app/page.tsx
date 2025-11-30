@@ -52,7 +52,7 @@ export default function Home() {
 
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href="https://wa.me/5519991624362"
+                href="https://wa.me/5519991623462"
                 className="bg-brandRed text-white px-7 py-3 rounded-xl text-lg font-semibold shadow-lg hover:scale-105 transition"
               >
                 Fale no WhatsApp
@@ -210,7 +210,7 @@ export default function Home() {
 
       {/* BOTÃO FIXO */}
       <a
-        href="https://wa.me/5519991624362"
+        href="https://wa.me/5519991623462"
         className="fixed bottom-6 right-6 bg-brandRed text-white px-5 py-4 rounded-full shadow-xl text-base font-semibold hover:scale-110 transition-all cursor-pointer"
       >
         WhatsApp
